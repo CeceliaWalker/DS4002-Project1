@@ -1,0 +1,11 @@
+[1] M. M. Danyal, S. S. Khan, M. Khan, S. Ullah, M. B. Ghaffar, and W. Khan, “Sentiment analysis of movie reviews based on NB approaches using TF–IDF and count vectorizer,” Social Network Analysis and Mining, vol. 14, no. 1, Apr. 2024, doi: https://doi.org/10.1007/s13278-024-01250-9. ​
+
+[2] N. M. Gardazi, A. Daud, M. K. Malik, A. Bukhari, Tariq Alsahfi, and Bader Alshemaimri, “BERT applications in natural language processing: a review,” Artificial Intelligence Review, vol. 58, no. 6, Mar. 2025, doi: https://doi.org/10.1007/s10462-025-11162-5. ​
+
+[3] Scikit learn, “TfidfVectorizer,” Scikit-learn.org, 2018. https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.h tml ​
+
+[4] B. Muller, “BERT 101 - State Of The Art NLP Model Explained,” huggingface.co, Mar. 02, 2022. https://huggingface.co/blog/bert-101 ​
+
+[5] “DistilBERT,” huggingface.co. https://huggingface.co/docs/transformers/en/model_doc/distilbert ​
+
+[6] GeeksforGeeks, “Handling Imbalanced Data for Classification,” GeeksforGeeks, Jul. 08, 2020. https://www.geeksforgeeks.org/machine-learning/handling-imbalanced-data-for-classification/ ​
