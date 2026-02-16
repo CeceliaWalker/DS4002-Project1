@@ -3,7 +3,7 @@
 
 ## Section 1: Software and platform section
 
-All analysis was conducted using Google Colab Jupyter Notebooks. No additional software installations were required outside of Colab.
+All analysis was conducted using Google Colab Jupyter Notebooks on a Mac. No additional software installations were required outside of Colab.
 
 ## Section 2: A Map of your documentation
 
