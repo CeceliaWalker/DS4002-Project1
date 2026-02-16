@@ -10,6 +10,7 @@ All analysis was conducted using Google Colab Jupyter Notebooks on Windows. No a
 data:
 
 -  Data Link, the link to the dataset on Kaggle
+-  Data Appendix.pdf, a summary of the dataset
 
 scripts: 
 
