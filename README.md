@@ -1,11 +1,15 @@
 # DS4002 Data Science Projects - Template
 
-This repository serves as a template for DS4002 student research project repositories. When creating your project repository, you may use this template to establish the required folder structure.
 
-Once your repository is created, replace this README.md file with your project-specific README, following the specifications provided on Canvas.
+## Section 1: Software and platform section
 
-The purpose and expected contents of the scripts, output, and data folders are described in the MI3 rubric (available on Canvas).
+## Section 2: A Map of your documentation
 
-Remember to include a LICENSE.md file in your repository.
+## Section 3: Instructions for reproducing your results
 
-**Before submitting, review your repository to ensure its organization and contents meet the project specifications. You will submit the URL of your repository on Canvas.**
+Download the data from the Kaggle link in our data folder, replace the
+
+
+
+
+
